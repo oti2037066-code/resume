@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Childers Delivers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>About Childers Delivers</h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="services.html">Services</a> |
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Our Business</h2>
+        <p>Childers Delivers is a vehicle-parts delivery business.</p>
+        <p>For the past five years, we have provided delivery of vehicle parts, including motors, transmissions, batteries, and bumpers.</p>
+        <p>Our goal is to provide dependable delivery service and help customers get the parts they need.</p>
+    </main>
+</body>
+</html>
